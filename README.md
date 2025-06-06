@@ -20,6 +20,6 @@ The encryption process involves shifting each letter of the plaintext using an o
 
 ### Example
 
-![Output Example](C:\Users\aksha\OneDrive\Desktop\Project_cipher\sampleoutput)
+![Output Example](output.png)
 
 
