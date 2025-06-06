@@ -20,6 +20,6 @@ The encryption process involves shifting each letter of the plaintext using an o
 
 ### Example
 
-![Output Example](output.png)
+![Output Example](sampleoutput/output.png)
 
 
